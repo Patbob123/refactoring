@@ -1,4 +1,6 @@
-25d6b0e (HEAD -> tasks) Task 1.1
+10b3d59 (HEAD -> tasks) Task 2.1
+33aa5fd Task 1.2
+25d6b0e Task 1.1
 b545fe2 (origin/main, origin/HEAD, main) clarifying extracted method names in README.md
 a0124c9 fixing starter file
 c8d9d38 adding starter files
