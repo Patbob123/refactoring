@@ -1,4 +1,5 @@
-10b3d59 (HEAD -> tasks) Task 2.1
+18d88d1 (HEAD -> tasks) Task 2.1
+10b3d59 Task 2.1
 33aa5fd Task 1.2
 25d6b0e Task 1.1
 b545fe2 (origin/main, origin/HEAD, main) clarifying extracted method names in README.md
