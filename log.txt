@@ -1,4 +1,7 @@
-18d88d1 (HEAD -> tasks) Task 2.1
+d76dd6c (HEAD -> tasks) Task 2.4
+e1f795c Task 2.3
+8c23d10 Task 2.2
+18d88d1 Task 2.1
 10b3d59 Task 2.1
 33aa5fd Task 1.2
 25d6b0e Task 1.1
