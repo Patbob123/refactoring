@@ -1,0 +1,5 @@
+25d6b0e (HEAD -> tasks) Task 1.1
+b545fe2 (origin/main, origin/HEAD, main) clarifying extracted method names in README.md
+a0124c9 fixing starter file
+c8d9d38 adding starter files
+cbe4517 first commit
